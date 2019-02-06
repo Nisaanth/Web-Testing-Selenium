@@ -19,3 +19,5 @@ end
 
 test = RandomInput.new
 p test.date
+
+sleep 7
